@@ -28,8 +28,10 @@ section#telefone{
     background-color: red;
     background: url(../imagens/frame-iphone.png)no-repeat
 }
-section#redesociais{
-    height: ;
-    width: ;
-    background-color: ;
+iframe#tela{
+    position: relative;
+    top: 12%;
+    left: 7%;
+    width: 268px;
+    height: 476px
 }
